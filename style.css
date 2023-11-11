@@ -1,0 +1,33 @@
+a:link {
+    color: #e5e5e5;
+  }
+  
+  a:visited {
+    color: #e5e5e5;
+  }
+  
+  a:hover {
+    color: #FCA311 !important;
+  }
+  
+  a:active {
+    color: red;
+  }
+  
+  a:link, a:visited {
+    text-decoration: none;
+  }
+
+.navbar{
+    background-color: #14213d !important;
+    color: #e5e5e5 !important;
+}
+
+.navbar-brand{
+ padding-left: 1rem;
+ padding-right: 3rem;
+ font-size: x-large;
+}
+body{
+    background-color: black;
+}
